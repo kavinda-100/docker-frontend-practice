@@ -13,8 +13,23 @@ function App() {
           with docker volumes update on live.
         </h1>
       </div>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+      <div
+        className="card"
+        style={{
+          width: "100%",
+        }}
+      >
+        <button
+          onClick={() => setCount((count) => count + 1)}
+          style={{
+            width: "100%",
+            height: "100%",
+            fontSize: "20px",
+            backgroundColor: "#61dafb",
+            border: "none",
+            borderRadius: "5px",
+          }}
+        >
           count is {count}
         </button>
       </div>
