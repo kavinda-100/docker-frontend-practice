@@ -7,13 +7,13 @@
 1. Clone the repository
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kavinda-100/docker-frontend-practice.git
    ```
 
 2. Navigate to the project directory
 
    ```bash
-   cd <project-directory>
+   cd docker-frontend-practice
    ```
 
 3. Install dependencies
