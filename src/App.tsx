@@ -8,8 +8,9 @@ function App() {
     <>
       <div>
         <h1 style={{ textAlign: "center", fontSize: "20px" }}>
-          This is a react app with Vite and TypeScript for docker practice with
-          docker volumes update.
+          This is a react app with Vite and TypeScript for docker practice
+          <br />
+          with docker volumes update on live.
         </h1>
       </div>
       <div className="card">
